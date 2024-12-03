@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating Websites since last 3 months<br>📚 I'm currently learning Full Stack development and DSA with java<br>🎯 Goals: Full Stack Developer at the Year end<br>🎲 Fun fact: Bill Gates, Co-founder of Microsoft, created his first computer program- an implementation of tic-tac-toe that enabled users to play games against the computer.</p>
+<p align="left">✨ Creating Websites since last 5 months<br>📚 I'm currently learning Full Stack development and DSA with java<br>🎯 Goals: Full Stack Developer at the Year end<br>🎲 Fun fact: Bill Gates, Co-founder of Microsoft, created his first computer program- an implementation of tic-tac-toe that enabled users to play games against the computer.</p>
 
 ###
 
