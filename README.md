@@ -1,24 +1,118 @@
-# 💫 About Me:
-# 👋 Hello, I'm Sarthak Kesarwani<br><br>🎓 **B.Tech CSE Student | Web Developer | Open Source Enthusiast**  <br>📍 Bundelkhand Institute of Engineering and Technology, Jhansi  <br>📈 Currently holding an **8.80 GPA (3rd Sem)**<br><br>---<br><br>## 🚀 About Me<br><br>I'm a passionate web developer with a love for building impactful and user-friendly applications. My interests lie in full-stack development, particularly in **React**, **Node.js**, and **MongoDB**. I enjoy turning ideas into real-world solutions, learning new technologies, and working on innovative side projects.<br><br>My goal is to contribute meaningfully to the tech community through open source and build platforms that solve real-life problems. I also actively work on enhancing my communication and leadership skills alongside my technical journey.<br><br>---<br><br>## 🛠️ Tech Stack & Tools<br><br>**Frontend:**  <br>![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)<br>![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)<br>![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)<br>![React](https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=61dafb)<br>![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)<br><br>**Backend:**  <br>![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)<br>![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)<br>![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)<br><br>**Others:**  <br>![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)<br>![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)<br>![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)<br><br>---<br><br>## 📚 Academic Achievement<br><br>🏅 Awarded **Best Performance in Academics**  <br>📊 Consistently maintaining a GPA of **8.80+**  <br>🎤 Improving communication & public speaking as a parallel growth path<br><br>---<br><br>## 🌟 Featured Projects<br><br>### 📘 Todolist App  <br>A sleek and responsive To-Do app built with React and Tailwind CSS.  <br>**Features:** Task creation, editing, deletion, persistent storage  <br>🔗 [View Project](https://github.com/Mighty-Sarthak-07/Todolist)<br><br>### 💱 Currency Converter  <br>Real-time currency converter built using React and external APIs.  <br>**Features:** API integration, dynamic exchange rate fetching  <br>🔗 [View Project](https://github.com/Mighty-Sarthak-07/Currency-Converter)<br><br>### 🧠 AI Course Generator  <br>A dynamic full-stack app that allows users to generate personalized AI-powered learning courses.  <br>**Stack:** Next.js, Clerk Auth, Drizzle ORM, PostgreSQL  <br>💡 Includes a subscription model, course progress tracking, and YouTube integration  <br>🔗 [View Project](https://github.com/Mighty-Sarthak-07/nextjs-course-ai)<br><br>---<br><br>## 📈 GitHub Stats<br><br>![Sarthak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mighty-Sarthak-07&show_icons=true&theme=github_dark)<br>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mighty-Sarthak-07&layout=compact&theme=github_dark)<br><br>---<br><br>## 📬 Let's Connect<br><br>- 📧 Email: **sarthakkesarwani.official@gmail.com**  <br>- 💼 LinkedIn: [linkedin.com/in/sarthak-kesarwani](https://www.linkedin.com/in/sarthak-kesarwani)  <br>- 🌐 Portfolio: _Coming Soon_ 🚧<br><br>---<br><br>_“Code is like humor. When you have to explain it, it’s bad.” – Cory House_<br><br>
+<h1 align="center">💫 About Me</h1>
 
-
-# 💻 Tech Stack:
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Mighty-Sarthak-07&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Mighty-Sarthak-07&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mighty-Sarthak-07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Mighty-Sarthak-07&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Mighty-Sarthak-07&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  👋 Hi, I'm <strong>Sarthak Kesarwani</strong><br>
+  🎓 <em>B.Tech CSE Student | Web Developer | Open Source Enthusiast</em><br>
+  📍 <em>Bundelkhand Institute of Engineering and Technology, Jhansi</em><br>
+  📈 <em>Currently holding an <strong>8.80 GPA (3rd Sem)</strong></em>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Mighty-Sarthak-07&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🚀 About Me
+
+I'm a passionate full-stack web developer who enjoys building impactful and user-centric applications. I work mainly with **React**, **Node.js**, and **MongoDB**, and I'm always eager to turn ideas into reality.
+
+I aim to contribute to the tech community through **open source**, while continuously improving my **leadership** and **communication** skills.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+#### 💻 Frontend  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![React](https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=61dafb)  
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+
+#### 🧩 Backend  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)  
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)  
+![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD)
+
+#### 🛠 Others  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+
+---
+
+### 📚 Academic Achievements
+
+- 🏅 Awarded **Best Performance in Academics**
+- 📊 Maintaining a consistent GPA of **8.80+**
+- 🎤 Actively improving **public speaking** & **team collaboration**
+
+---
+
+### 🌟 Featured Projects
+
+#### 📘 [Todolist App](https://github.com/Mighty-Sarthak-07/Todolist)
+A sleek, responsive To-Do app using React & Tailwind CSS.  
+→ Task creation, editing, deletion, and persistent local storage.
+
+#### 💱 [Currency Converter](https://github.com/Mighty-Sarthak-07/Currency-Converter)
+A real-time currency converter using React & external APIs.  
+→ Fetches dynamic exchange rates with clean UI.
+
+#### 🧠 [AI Course Generator](https://github.com/Mighty-Sarthak-07/nextjs-course-ai)
+A full-stack platform to generate personalized AI-powered courses.  
+→ Built with **Next.js**, **Clerk Auth**, **Drizzle ORM**, **PostgreSQL**  
+→ Includes subscription, progress tracking, and YouTube integration.
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mighty-Sarthak-07&show_icons=true&theme=github_dark&hide_border=false" width="400"/>  
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Mighty-Sarthak-07&theme=dark&hide_border=false" width="400"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mighty-Sarthak-07&layout=compact&theme=github_dark&hide_border=false" width="400"/>
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mighty-Sarthak-07&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
+</p>
+
+---
+
+### ✍️ Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</p>
+
+---
+
+### 🔝 Top Contributed Repositories
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Mighty-Sarthak-07&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
+</p>
+
+---
+
+### 📬 Let's Connect
+
+- 📧 Email: [sarthakkesarwani.official@gmail.com](mailto:sarthakkesarwani.official@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/sarthak-kesarwani](https://www.linkedin.com/in/sarthak-kesarwani)  
+- 🌐 Portfolio: (https://portfolio-kappa-fawn-54.vercel.app/)
+
+---
+
+<p align="center"><em>“Code is like humor. When you have to explain it, it’s bad.” – Cory House</em></p>
+
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=Mighty-Sarthak-07&icon=0&color=0" alt="Visit Count"/>
+  </a>
+</p>
+
+<!-- Made with GPRM ( https://gprm.itsvg.in ) -->
