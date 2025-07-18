@@ -4,7 +4,7 @@
   👋 Hi, I'm <strong>Sarthak Kesarwani</strong><br>
   🎓 <em>B.Tech CSE Student | Web Developer | Open Source Enthusiast</em><br>
   📍 <em>Bundelkhand Institute of Engineering and Technology, Jhansi</em><br>
-  📈 <em>Currently holding an <strong>8.80 GPA (3rd Sem)</strong></em>
+  📈 <em>Currently holding an <strong>8.83 GPA (2nd Year)</strong></em>
 </p>
 
 ---
